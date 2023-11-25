@@ -1,0 +1,16 @@
+config.toml
+target
+.DS_Store
+__pycache__
+*.py[cod]
+develop-eggs/
+bin/
+dist/
+build/
+parts/
+.tox/
+.installed.cfg
+*.egg-info
+*.swp
+*.log
+node_modules

@@ -1,0 +1,32 @@
+[cast]
+device_friendly_name = "Living room Hub"
+
+[albums."333554284272"]
+title = "Rosalía - MOTOMAMI"
+media_id = "vlBjuqnZKso" # Saoko
+playlist_id = "OLAK5uy_ljx98drtYxCxUpMnFD_DI1XZ3ATO-b-V8"
+
+[albums."883276543614"]
+title = "Karol G - MAÑANA SERÁ BONITO"
+media_id = "sCmiKgyEQuM" # X Si Volvemos
+playlist_id = "OLAK5uy_kxrXb02KHgkUXgSCCRKXw18PL__dHD1a4"
+
+[albums."811772049064"]
+title = "Foo fighters - But Here We Are"
+media_id = "f_W2FyI1giU" # Rescued
+playlist_id = "OLAK5uy_lBzRHIupm6Em5U6sjeDEnhSwjQg7Yi3Wk"
+
+[albums."1017930479352"]
+title = "Queens Of The Stone Age - Songs For The Deaf"
+media_id = "i_45GLa_F70" # You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire
+playlist_id = "OLAK5uy_lay47Sjj2CnbcrwYPATRfmSA7LQAbDJRs"
+
+[albums."949227779787"]
+title = "Radiohead - Kid A"
+media_id = "NUnXxh5U25Y" # Everything in its right place
+playlist_id = "OLAK5uy_lDotrFl8LXo4UMq_XeVB1areFI_b8Par8"
+
+[albums."743069349563"]
+title = "Ozuna - ENOC"
+media_id = "7hL-3_OVGik" # Del mar
+playlist_id = "OLAK5uy_ls4dXutQtaOG0cU5VWfPcbSG0D-AtWrxY"
