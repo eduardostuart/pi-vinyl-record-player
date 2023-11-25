@@ -2,14 +2,14 @@
 
 # "Vinyl" Record Player
 
-🎶 Vinyl Record Player is a just for fun project that I made to play music on my Google Home devices using RFID tags. The idea is to simulate a record player; don't take it too seriously.
+🎶 Vinyl Record Player is a just-for-fun project I made to play music using RFID tags on my Google Home device. The idea is to simulate a record player; don't take it too seriously.
 
 I'm using a Raspberry Pi 3 B.
 
 ## How it works
 
 1. The music catalog is defined on `config.toml` file. See [config.toml.example](./config.toml.example) for an example.
-2. When someone places a RFID tag on the reader, the music will play on the Google Home device.
+2. When someone places an RFID tag on the reader, the music will play on the Google Home device.
 
 Use the command `python discovery.py` to find your device information.
 
@@ -46,7 +46,7 @@ Create a service on `/etc/systemd/system/`. For example:
 # cat /etc/systemd/system/vinyl.service
 [Unit]
 Description=Vinyl Player Service
-After=network.target # wait for network to be available
+After=network.target # Wait for the network to be available
 
 [Service]
 User=eduardostuart
@@ -79,7 +79,7 @@ If you want to have your own fake vinyl, I created a super simple "vinyl" builde
 
 ## References & inspiration
 
-There are a lot of projects out there that are similar to this. The main difference is that I'm using YouTube Music instead of Spotify and a Google Home.
+There are a lot of projects out there that are similar to this. The main difference is that I use YouTube Music instead of Spotify and a Google Home device.
 
 <details>
   <summary>Inspiration list</summary>
